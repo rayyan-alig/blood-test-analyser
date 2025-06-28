@@ -81,7 +81,7 @@ This project takes in a blood test report (`.pdf`) and returns medical, nutritio
 ### 1. Clone & Setup
 
 ```bash
-cd blood-test-analyser-debug
+cd blood-test-analyser
 python -m venv myenv
 source myenv/bin/activate  # or myenv\Scripts\activate on Windows
 ```
